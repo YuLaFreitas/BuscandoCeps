@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BuscandoCeps</string>
+    <string name="tema">Pesquise o CEP de FEIRA de SANTANA</string>
+    <string name="filtro">Tipo</string>
+    <string name="Dig">Digite aqui sua pesquisa</string>
+    <array name="filtro">
+        <item>LOGRADOURO</item>
+        <item>BAIRRO</item>
+        <item>TODOS</item>
+    </array>
+</resources>
